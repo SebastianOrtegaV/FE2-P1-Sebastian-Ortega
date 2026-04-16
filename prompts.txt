@@ -1,0 +1,15 @@
+Versión incial, estructura base:
+
+-Para darle una estructura base a la página se le pidió a la IA generar una página con información como la
+ personalización del arcade y el orden de como se debe mostrar esta información.
+
+ prompt 1: Genera una página web, esta debe promocionar unas maquinas de videojuegos arcade a la venta; los cuales
+se pueden cargar con el juego que quieras y se puede personalizar a gusto, como el material, tamaño, colores y hasta controles.
+Necesito que la página muestre el nombre del produto, llamado "CustomArcade", una breve descripción que es lo que ya expliqué,
+un cuadro destacado donde irá la presentación del producto y cuadros secundarios de información donde irán cosas como 
+caraterísticas, beneficios del producto, información de los materiales, juegos, etc.
+Utiliza colores oscuros para la presentación de la página y un estilo como neon para los cuadros o bordes de cuadros que 
+muestren información para darle un look de página de videojuegos.
+
+-El resultado del prompt fue el esperado y es útil como estructura base de la página que nos ayudará a mostrar mejor las 
+características del producto.
