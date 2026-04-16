@@ -28,3 +28,10 @@ para cambiar la información.
 
 -La IA entregó los cambios pedidos correctamente y la información de la página quedó más compacta y la página mas interactiva.
 
+Incorporación de contenido, ventajas:
+
+-La estructura base ya tenía la información clave para mostrar el producto pero se decidió agregar una comparación contra otros arcades.
+
+prompt 3:Ahora incorpora contenido de ventajas ante otros arcades debajo de los cuadros de juegos.
+
+-La IA entregó la información que se pedía de una manera que no interrumpe ni el estilo o la legibilidad de la página.

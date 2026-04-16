@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Efectos de hover para las tarjetas
-    const cards = document.querySelectorAll('.feature-card, .benefit-card, .customize-card');
+    const cards = document.querySelectorAll('.feature-card, .benefit-card, .customize-card, .ventaja-card');
     cards.forEach(card => {
         card.addEventListener('mouseenter', function() {
             this.style.transform = 'translateY(-8px) scale(1.02)';
