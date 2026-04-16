@@ -1513,7 +1513,17 @@ body {
     }
 
     .nav-links {
-        display: none;
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        align-items: flex-end;
+        padding: 10px 0;
+        width: 100%;
+    }
+
+    .nav-links a {
+        font-size: 13px;
+        padding: 10px 0;
     }
 }
 
@@ -2257,4 +2267,133 @@ body {
     .comparison-table h3 {
         font-size: 24px;
     }
+
+    .hero {
+        padding: 60px 0 40px;
+    }
+
+    .hero-content {
+        gap: 30px;
+    }
+
+    .hero-text h1 {
+        font-size: 36px;
+        letter-spacing: -1px;
+    }
+
+    .hero-subtitle {
+        font-size: 18px;
+    }
+
+    .hero-description {
+        font-size: 16px;
+        max-width: 100%;
+    }
+
+    .arcade-preview {
+        width: 220px;
+        height: 300px;
+    }
+
+    .featured-box {
+        padding: 30px 20px;
+    }
+
+    .featured-box h2 {
+        font-size: 28px;
+    }
+
+    .features-highlights {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .highlight-item {
+        padding: 24px 16px;
+    }
+
+    .section-title {
+        font-size: 28px;
+    }
+
+    .section-description {
+        font-size: 16px;
+        max-width: 100%;
+    }
+
+    .tabs-nav {
+        flex-direction: column;
+    }
+
+    .tab-button {
+        padding: 18px 16px;
+        font-size: 14px;
+    }
+
+    .tabs-content {
+        min-height: auto;
+    }
+
+    .tab-panel {
+        padding: 30px 20px;
+    }
+
+    .features-grid,
+    .benefits-grid,
+    .customization-grid,
+    .ventajas-grid,
+    .grid-5 {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .feature-card,
+    .benefit-card,
+    .customize-card,
+    .ventaja-card,
+    .comparison-table,
+    .cta-box {
+        padding: 20px;
+    }
+
+    .comparison-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .comparison-row {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .comparison-row span:first-child {
+        grid-column: auto;
+        text-align: left;
+    }
+
+    .comparison-row span:nth-child(2) {
+        border-right: none;
+    }
+
+    .game-card {
+        padding: 18px;
+        font-size: 14px;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+    }
+
+    .cta-box h2 {
+        font-size: 32px;
+    }
+
+    .nav-links {
+        align-items: flex-start;
+    }
 }
+

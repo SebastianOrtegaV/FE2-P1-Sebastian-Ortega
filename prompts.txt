@@ -35,3 +35,9 @@ Incorporación de contenido, ventajas:
 prompt 3:Ahora incorpora contenido de ventajas ante otros arcades debajo de los cuadros de juegos.
 
 -La IA entregó la información que se pedía de una manera que no interrumpe ni el estilo o la legibilidad de la página.
+
+Adaptación a dispositivos móviles:
+
+-Se pidió que la misma información sea ordenada y legible para versiones de celular.
+
+prompt 4:Adapta la página a dispositivos móviles, necesito que la misma información sea legible y bien distribuido.
