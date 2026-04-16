@@ -13,3 +13,18 @@ muestren información para darle un look de página de videojuegos.
 
 -El resultado del prompt fue el esperado y es útil como estructura base de la página que nos ayudará a mostrar mejor las 
 características del producto.
+
+Mejora visual, estilos y distribución:
+
+-Se le pidió a la IA que mostrara la informacion de manera más jerárquica y al mismo tiempo se compactaron distintos recuadros para hacer
+la información más legible.
+
+prompt 2:Ahora necesito mejorar el estilo visual, con estilos más trabajados y una mejor distribución del contenido. 
+Sin cambiar la paleta de colores. Necesito una versión más moderna la cual muestre, más visualmente jerárquico la información pero 
+sin cambiar la forma en que se muestra(cuadros). También necesito que quites los emojis de características principales y los beneficios 
+pero sin quitar la información y sin reemplazarla por números u otra cosa. Utiliza un cuadro que se pueda deslizar para ver la 
+información de características, beneficios y personalizacion. Para tener esas tres ramas en el mismo cuadro y que se pueda deslizar 
+para cambiar la información.
+
+-La IA entregó los cambios pedidos correctamente y la información de la página quedó más compacta y la página mas interactiva.
+
